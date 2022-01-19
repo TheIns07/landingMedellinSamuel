@@ -1,2 +1,2 @@
 # landingMedellinSamuel
-Esta es la priemra version de mi landingpage sin aplicar ningun tipo estilo
+Esta es la primera version de mi landingpage sin aplicar ningun tipo estilo
